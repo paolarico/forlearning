@@ -1,0 +1,109 @@
+[{
+    "name": "image upload",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "[Priority] Blocker",
+    "color": "ee0701"
+  },
+  {
+    "name": "[Priority] Major",
+    "color": "e99695"
+  },
+  {
+    "name": "[Priority] Minor",
+    "color": "f9d0c4"
+  },
+  {
+    "name": "[Release] 1.0",
+    "color": "128A0C"
+  },
+  {
+    "name": "[Skill] Accessibility",
+    "color": "1d76db"
+  },
+  {
+    "name": "[Skill] Content",
+    "color": "1d76db"
+  },
+  {
+    "name": "[Skill] CSS/Sass",
+    "color": "1d76db"
+  },
+  {
+    "name": "[Skill] Documentation",
+    "color": "1d76db"
+  },
+  {
+    "name": "[Skill] Front End",
+    "color": "1d76db"
+  },
+  {
+    "name": "[Skill] Javascript",
+    "color": "1d76db"
+  },
+  {
+    "name": "[Skill] Research",
+    "color": "1d76db"
+  },
+  {
+    "name": "[Skill] User Experience",
+    "color": "1d76db"
+  },
+  {
+    "name": "[Skill] Visual Design",
+    "color": "1d76db"
+  },
+  {
+    "name": "[Status] Backlog",
+    "color": "fbca04"
+  },
+  {
+    "name": "[Status] Blocked",
+    "color": "fbca04"
+  },
+  {
+    "name": "[Status] Idea",
+    "color": "fbca04"
+  },
+  {
+    "name": "[Status] Need more info",
+    "color": "fbca04"
+  },
+  {
+    "name": "[Status] Review Needed",
+    "color": "fbca04"
+  },
+  {
+    "name": "[Test] Delete after testing",
+    "color": "000000"
+  },
+  {
+    "name": "[Type] Bug",
+    "color": "bfdadc"
+  },
+  {
+    "name": "[Type] Communication",
+    "color": "bfdadc"
+  },
+  {
+    "name": "[Type] Documentation",
+    "color": "bfdadc"
+  },
+  {
+    "name": "[Type] Enhancement",
+    "color": "bfdadc"
+  },
+  {
+    "name": "[Type] Maintenance",
+    "color": "bfdadc"
+  },
+  {
+    "name": "[Type] Question",
+    "color": "bfdadc"
+  },
+  {
+    "name": "[Type] Research",
+    "color": "bfdadc"
+  }
+]
